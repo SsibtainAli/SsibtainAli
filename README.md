@@ -1,4 +1,4 @@
-- Hi, I’m Sibtain, I'm a physics student who likes making simulations of physics problems.
+- Hi, I’m Sibtain, I'm a physics student who likes creating simulations of physics problems.
 - I have expertise in C++, Python, Matlab and Mathematica.
 - Currently, I'm working on developing C++ algorithms using ROOT for jet classification in high-energy physics data analysis.
 - If you have any questions about any of my codes, you can reach me at sibtaingillani55@gmail.com
